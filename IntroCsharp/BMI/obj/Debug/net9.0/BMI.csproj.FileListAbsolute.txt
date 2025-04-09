@@ -12,3 +12,4 @@ C:\Users\turka\source\repos\Ceren Özdemir\IntroCsharp\BMI\obj\Debug\net9.0\refi
 C:\Users\turka\source\repos\Ceren Özdemir\IntroCsharp\BMI\obj\Debug\net9.0\BMI.pdb
 C:\Users\turka\source\repos\Ceren Özdemir\IntroCsharp\BMI\obj\Debug\net9.0\BMI.genruntimeconfig.cache
 C:\Users\turka\source\repos\Ceren Özdemir\IntroCsharp\BMI\obj\Debug\net9.0\ref\BMI.dll
+c:\Users\turka\source\repos\Ceren Özdemir\IntroCsharp\BMI\obj\Debug\net9.0\BMI.sourcelink.json
