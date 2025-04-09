@@ -1,0 +1,14 @@
+C:\Users\turka\source\repos\Ceren Özdemir\IntroCsharp\useVsCode\bin\Debug\net9.0\useVsCode.exe
+C:\Users\turka\source\repos\Ceren Özdemir\IntroCsharp\useVsCode\bin\Debug\net9.0\useVsCode.deps.json
+C:\Users\turka\source\repos\Ceren Özdemir\IntroCsharp\useVsCode\bin\Debug\net9.0\useVsCode.runtimeconfig.json
+C:\Users\turka\source\repos\Ceren Özdemir\IntroCsharp\useVsCode\bin\Debug\net9.0\useVsCode.dll
+C:\Users\turka\source\repos\Ceren Özdemir\IntroCsharp\useVsCode\bin\Debug\net9.0\useVsCode.pdb
+C:\Users\turka\source\repos\Ceren Özdemir\IntroCsharp\useVsCode\obj\Debug\net9.0\useVsCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Ceren Özdemir\IntroCsharp\useVsCode\obj\Debug\net9.0\useVsCode.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Ceren Özdemir\IntroCsharp\useVsCode\obj\Debug\net9.0\useVsCode.AssemblyInfo.cs
+C:\Users\turka\source\repos\Ceren Özdemir\IntroCsharp\useVsCode\obj\Debug\net9.0\useVsCode.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Ceren Özdemir\IntroCsharp\useVsCode\obj\Debug\net9.0\useVsCode.dll
+C:\Users\turka\source\repos\Ceren Özdemir\IntroCsharp\useVsCode\obj\Debug\net9.0\refint\useVsCode.dll
+C:\Users\turka\source\repos\Ceren Özdemir\IntroCsharp\useVsCode\obj\Debug\net9.0\useVsCode.pdb
+C:\Users\turka\source\repos\Ceren Özdemir\IntroCsharp\useVsCode\obj\Debug\net9.0\useVsCode.genruntimeconfig.cache
+C:\Users\turka\source\repos\Ceren Özdemir\IntroCsharp\useVsCode\obj\Debug\net9.0\ref\useVsCode.dll
